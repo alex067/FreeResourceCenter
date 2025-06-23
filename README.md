@@ -145,6 +145,9 @@ Navigate the repository by clicking on the technology you're interested in. Have
 * https://build-your-own.org/database/
 > Understand databases from the bottom up by building your own, in small steps, and with simple Golang code.
 
+* https://github.com/astavonin/go-optimization-guide
+> The Go Optimization Guide is a collection of technical articles designed to help you build faster, more efficient Go applications. Whether you're developing high-throughput APIs, microservices, or distributed systems, this guide provides practical optimization patterns, real-world examples, and deep insights into Go performance.
+
 ## Javascript
 * https://eloquentjavascript.net/
 > This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy.
